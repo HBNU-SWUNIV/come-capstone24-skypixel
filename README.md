@@ -41,7 +41,7 @@
 
 ### 향후 연구 방향
 - 📚 **Optical 이미지를 teacher 모델로 사용하고, student 모델의 학습에 가이드를 주는 방향으로 학습하여 모델 성능 향상**
-- 🏅 **캡스톤 1에서 연구한 전처리 및 증대 기법을 적용하여 지식 증류(Knowledge Distillation, KD) 기법에서의 SOTA(State-Of-The-Art) 성능을 달성하고, 이를 기반으로 SCI 논문 작성**
+- 📝 **캡스톤 1에서 연구한 전처리 및 증대 기법을 적용하여 지식 증류(Knowledge Distillation, KD) 기법에서의 SOTA(State-Of-The-Art) 성능을 달성하고, 이를 기반으로 SCI 논문 작성**
 
 ## 프로젝트 성과
 
