@@ -34,6 +34,9 @@
 - **SAR 이미지의 특징에 기반하여 배경을 고려한 데이터 증대 기법인 Crop-Paste 기법을 제안하여 object-detection 성능을 올리는 연구를 수행함**
   - SAR 이미지의 특성을 반영한 데이터 증대 기법을 통해 탐지 성능을 개선함.
 
+- **Overview**
+  - ![지식증류](https://github.com/HBNU-SWUNIV/come-capstone24-skypixel/assets/98447471/69dbab16-bb39-45d1-9507-d14ec636df40)
+
 ## 결론
 
 ### 연구 결과
