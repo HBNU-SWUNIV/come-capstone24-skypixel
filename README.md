@@ -35,8 +35,8 @@
   - SAR 이미지의 특성을 반영한 데이터 증대 기법을 통해 탐지 성능을 개선함.
 
 - **Overview**
-  - ![지식증류](https://github.com/HBNU-SWUNIV/come-capstone24-skypixel/assets/98447471/69dbab16-bb39-45d1-9507-d14ec636df40)
-
+  ![지식증류](https://github.com/HBNU-SWUNIV/come-capstone24-skypixel/assets/98447471/69dbab16-bb39-45d1-9507-d14ec636df40)
+  
 ## 결론
 
 ### 연구 결과
