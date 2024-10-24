@@ -36,6 +36,8 @@
 
 - **Overview**
   ![지식증류](https://github.com/HBNU-SWUNIV/come-capstone24-skypixel/assets/98447471/69dbab16-bb39-45d1-9507-d14ec636df40)
+  ![생성모델](https://github.com/HBNU-SWUNIV/come-capstone24-skypixel/blob/main/assets/sar2eo_pipeline.png)
+  ![Crop-Paste](https://github.com/HBNU-SWUNIV/come-capstone24-skypixel/blob/main/assets/crop-paste_pipeline.png)
   
 ## 결론
 
