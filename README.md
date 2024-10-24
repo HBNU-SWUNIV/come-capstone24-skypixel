@@ -43,6 +43,8 @@
 
 ### 연구 결과
 - 📈 SAR 세그멘테이션의 성능을 높이기 위한 생성 모델 및 데이터 증대 기법의 효과 확인
+  ![생성모델](https://github.com/HBNU-SWUNIV/come-capstone24-skypixel/blob/main/assets/sar2eo_inference.png)
+  ![Crop-Paste](https://github.com/HBNU-SWUNIV/come-capstone24-skypixel/blob/main/assets/crop-paste_inference.png)
 
 ### 향후 연구 방향
 - 📚 Optical 이미지를 teacher 모델로 사용하고, student 모델의 학습에 가이드를 주는 방향으로 학습하여 모델 성능 향상
