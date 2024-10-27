@@ -56,14 +56,14 @@
 - AI를 활용한 향상된 위성 이미지 분석
 - 🏆 대상: 연구개발특구진흥재단 이사장상 수상 ([링크](https://aifactory.space/task/2723/overview))
 
-### KJRS(scopus, 한국원격탐사 논문지) 1편 제출/게재
+### KJRS(Scopus, 대한원격탐사 논문지) 1편 제출/게재
 - 📝 Parcel-Based Crop Type Classification in UAV Imagery with SAM for Smallholder Farms
 
 ### KCC 2024(한국정보과학회 2024) 2편 제출/발표
 - 📝 합성개구레이다 영상에서 광학 영상으로의 이미지 변환을 위한 데이터 전처리 및 증대 기법
 - 📝 합성 개구 레이다 이미지의 객체 탐지 성능 향상을 위한 절삭-붙여넣기 기법
 
-### KTCP(정보과학회 컴퓨팅의 실제 논문지) 2편 제출
+### KTCP(KCI, 정보과학회 컴퓨팅의 실제 논문지) 2편 제출
 - 📝 확산 모델을 활용한 SAR-광학 영상 변환을 위한 데이터 전처리와 증대 기법
 - 📝 합성 개구 레이다 이미지에서 객체 탐지 성능 향상을 위한 Crop-Paste 데이터 증대 기법
 
